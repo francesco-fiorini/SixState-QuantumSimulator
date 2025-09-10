@@ -1,3 +1,5 @@
+# Author: Francesco Fiorini & Rostyslav Schiavini Yadzhak
+
 from execution.six_state_algorithm import SixStateAlgorithm
 import time
 import numpy as np
