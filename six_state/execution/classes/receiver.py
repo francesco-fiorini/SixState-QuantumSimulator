@@ -1,3 +1,6 @@
+# Author: Francesco Fiorini & Rostyslav Schiavini Yadzhak
+# Inspired by: Daniel Escanez-Exposito, Andrea Hernández Martín
+
 from qiskit import QuantumCircuit
 from execution.classes.partecipant import Partecipant
 from qiskit import transpile
