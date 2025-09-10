@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+# Author: Francesco Fiorini & Rostyslav Schiavini Yadzhak
 # Inspired by: Daniel Escanez-Exposito, Andrea Hernández Martín
 
 from qiskit import QuantumCircuit
