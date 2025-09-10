@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Author: Daniel Escanez-Exposito
+# Inspired by: Daniel Escanez-Exposito, Andrea Hernández Martín
 
 from execution.classes.partecipant import Partecipant
 from qiskit import QuantumCircuit
