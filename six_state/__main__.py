@@ -1,4 +1,4 @@
-# Author: Francesco Fiorini
+# Author: Francesco Fiorini & Rostyslav Schiavini Yadzhak
 
 from qiskit import transpile
 import qiskit_aer
