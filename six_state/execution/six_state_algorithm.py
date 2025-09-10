@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Author: Daniel Escanez-Exposito, Andrea Hernández Martín
+# Inspired by: Daniel Escanez-Exposito, Andrea Hernández Martín
 
 from qiskit import QuantumCircuit
 from execution.classes.sender import Sender
