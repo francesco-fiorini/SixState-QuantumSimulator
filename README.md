@@ -35,7 +35,7 @@ The implementation builds upon the **quantum-solver** library by Daniel Escanez-
 
 To use this package:  
 1. Clone or download the `quantum-solver` repository.  
-2. Replace the `six_state` folder under `quantum-solver/src/crypto` with the current `sixState` package.  
+2. Replace the `six_state` folder under `quantum-solver/src/crypto` with the current `six_state` package.  
 3. Run the simulation with:  
 `python3 __main__.py`
 
