@@ -1,3 +1,6 @@
+# Author: Francesco Fiorini & Rostyslav Schiavini Yadzhak
+# Inspired by: Daniel Escanez-Exposito, Andrea Hernández Martín
+
 from abc import ABC, abstractmethod
 from qiskit import QuantumCircuit
 from qiskit.circuit.library import YGate, ZGate
