@@ -1,3 +1,5 @@
+# Author: Francesco Fiorini
+
 from qiskit import transpile
 import qiskit_aer
 import qiskit_ibm_runtime.fake_provider 
