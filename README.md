@@ -37,8 +37,6 @@ To use this package:
 1. Clone or download the `quantum-solver` repository.  
 2. Replace the `bb84` folder under `quantum-solver/src/crypto` with the current `sixState` package.  
 3. Run the simulation with:  
-
-```bash
 python3 __main__.py
 
 Ensure that Qiskit and other dependencies specified in the quantum-solver repository are installed.
