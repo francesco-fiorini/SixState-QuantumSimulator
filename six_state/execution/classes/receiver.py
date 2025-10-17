@@ -1,5 +1,5 @@
 # Author: Francesco Fiorini & Rostyslav Schiavini Yadzhak
-# Inspired by: Daniel Escanez-Exposito, Andrea Hernández Martín
+# Inspired by: Daniel Escanez-Exposito (https://github.com/jdanielescanez/quantum-solver)
 
 from qiskit import QuantumCircuit
 from execution.classes.partecipant import Partecipant
