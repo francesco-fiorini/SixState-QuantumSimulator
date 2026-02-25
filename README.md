@@ -16,6 +16,7 @@ This project aims to support research and development of **intrusion detection m
 - [Introduction](#introduction)
 - [Installation and Usage](#installation-and-usage)
 - [Features](#features)
+- [Citation](#citation)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -53,6 +54,23 @@ Ensure that Qiskit and other dependencies specified in the quantum-solver reposi
 6) Automated generation of Excel reports for performance metrics
 7) Detailed execution time and resource usage analysis
 8) Support for customizable backend configurations
+
+## Citation
+
+If you use this repository, please cite:
+
+@article{fiorini2025_sixstate_eve_detection,
+  title   = {Eavesdropper Detection in Six-State Protocol Against Partial Intercept--Resend Attack},
+  author  = {Fiorini, Francesco and Garroppo, Rosario Giuseppe and Pagano, Michele and Schiavini Yadzhak, Rostyslav},
+  journal = {Future Internet},
+  volume  = {17},
+  number  = {11},
+  pages   = {500},
+  year    = {2025},
+  doi     = {10.3390/fi17110500}
+}
+
+Paper: https://doi.org/10.3390/fi17110500
 
 ## Contributing
 We welcome contributions to improve this project! For suggestions or issues, please contact francesco.fiorini@phd.unipi.it.
