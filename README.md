@@ -8,6 +8,8 @@ In addition, performance metrics are exported to an automatically generated and 
 
 This project aims to support research and development of **intrusion detection mechanisms** in quantum communication, leveraging the increased robustness of the Six-State protocol.  
 
+**The full reference paper is available here:**  
+https://doi.org/10.1103/95k8-3zxd 
 ---
 
 ## Table of Contents
